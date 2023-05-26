@@ -34,7 +34,7 @@ This program doesn't need to install.
 # Usage
 To get help, please open terminal and run the following command.
 ```
-    python3 main.py -h
+    python3 __main__.py 
 ```
 
 Then, follow the instructions to enjoy this program.
@@ -125,8 +125,12 @@ Then, follow the instructions to enjoy this program.
   - Modify playlist download code in main.py .
   - Add progress bar in downloadFile() and playlistToTs() in main.py .
 
+- 26 / 05 / 2023
+- Se le proporciono una interfas grafica con el archivo __main__.py
+
 # Copyright
-This program is written by [haward79](https://www.haward79.tw/).
+This program is written by [haward79](https://www.haward79.tw/),
+This program is written by [fer1993fer](musa420@gmail.com)
 
 This is a COPYLEFT program!
 Everyone can edit and share this program to others for free(without payment and with freedom) with name-tagged.
